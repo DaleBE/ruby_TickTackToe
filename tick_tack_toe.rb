@@ -138,7 +138,6 @@ class GamePlay
       player_one_turn
     end
   end
-
 end
 
 greeting = <<~GREET # syntax for a multiline string that removes whitespaces
